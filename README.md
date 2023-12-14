@@ -6,3 +6,33 @@ Test Case's Training
 - <a href="https://drive.google.com/file/d/1m0Ebzzbr7E73-I9oTiC-cIJSspg8bENP/view" target="_blank">Prime Engineering - Bug 2 </a>
 - <a href="https://drive.google.com/file/d/1mo6W09E6ft_tWnN4fCVW_GBFOZylkTkJ/view" target="_blank">Prime Engineering - Bug 3 </a>
 - <a href="https://drive.google.com/file/d/1Z3fqxRXKqQgYq_fyYdxfXtrrT9WCVi2f/view" target="_blank">Prime Engineering - Bug 4 </a>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Test Case's Training</title>
+</head>
+
+<body>
+
+    <h2>GGS IT Consulting - Career</h2>
+    <p>Tutaj znajdują się informacje dotyczące kariery w firmie GGS IT Consulting.</p>
+
+    <h2>Prime Engineering - Oferty Pracy</h2>
+    <p>Tutaj znajdują się oferty pracy w firmie Prime Engineering.</p>
+
+    <h2>Prime Engineering - Bug 1</h2>
+    <p>Tutaj znajdują się szczegóły dotyczące Bug 1.</p>
+
+    <h2>Prime Engineering - Bug 2</h2>
+    <p>Tutaj znajdują się szczegóły dotyczące Bug 2.</p>
+
+    <h2>Prime Engineering - Bug 3</h2>
+    <p>Tutaj znajdują się szczegóły dotyczące Bug 3.</p>
+
+    <h2>Prime Engineering - Bug 4</h2>
+    <p>Tutaj znajdują się szczegóły dotyczące Bug 4.</p>
+
+</body>
+
+</html>
