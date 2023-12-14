@@ -15,11 +15,9 @@ Test Case's Training
 
 <body>
 
-    <h2>GGS IT Consulting - Career</h2>
-    <p>Tutaj znajdują się informacje dotyczące kariery w firmie GGS IT Consulting.</p>
+    <h2>1. GGS IT Consulting - Career</h2>
 
-    <h2>Prime Engineering - Oferty Pracy</h2>
-    <p>Tutaj znajdują się oferty pracy w firmie Prime Engineering.</p>
+    <h2>2. Prime Engineering - Oferty Pracy</h2>
 
     <h2>Prime Engineering - Bug 1</h2>
     <p>Tutaj znajdują się szczegóły dotyczące Bug 1.</p>
