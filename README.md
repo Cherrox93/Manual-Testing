@@ -11,3 +11,5 @@
 3. <a href="https://drive.google.com/file/d/1_OrLCbAn8kVT-PQTM4FAQvBLjjzNTogT/view" target="_blank">Tpay - Kariera</a>
 4. <a href="https://drive.google.com/file/d/1pxO-cc6jxsBXhlEqN_ZcHJE1Fzah7aBv/view" target="_blank">Avenga - Career</a>
 - <a href="https://drive.google.com/file/d/17Y-jn1cQmfjoaZ25b_eOdfcdWjsCaEyo/view" target="_blank">Avenga - Bug Report 1</a>
+
+5. <a href="https://drive.google.com/file/d/1jPZBz1PVnKbIV_bD-2cTE3WstC1QbE83/view" target="_blank">Novomatic - Careers</a>
