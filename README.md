@@ -13,3 +13,4 @@
   - <a href="https://drive.google.com/file/d/17Y-jn1cQmfjoaZ25b_eOdfcdWjsCaEyo/view" target="_blank">Avenga - Bug Report 1</a>
 
 5. <a href="https://drive.google.com/file/d/1jPZBz1PVnKbIV_bD-2cTE3WstC1QbE83/view" target="_blank">Novomatic - Careers</a>
+  - <a href="https://drive.google.com/file/d/1ytAtmP9f_Xeu6jVlsmMjKVDjybLaDCUH/view" target="_blank">Novomatic - Bug Report 1</a>
