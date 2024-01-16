@@ -14,3 +14,5 @@
 
 5. <a href="https://drive.google.com/file/d/1jPZBz1PVnKbIV_bD-2cTE3WstC1QbE83/view" target="_blank">Novomatic - Careers</a>
   - <a href="https://drive.google.com/file/d/1ytAtmP9f_Xeu6jVlsmMjKVDjybLaDCUH/view" target="_blank">Novomatic - Bug Report 1</a>
+
+6. <a href="https://drive.google.com/file/d/1AcvrcQYHwJ77Q5GzBOOtCvhhumexWAQ8/view" target="_blank">Innovation Software - Kariera</a> 
